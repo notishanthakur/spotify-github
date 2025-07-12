@@ -1,7 +1,8 @@
 {
-    "current-theme": "dark",
+    "current-theme": "portrait",
     "templates": {
         "light": "spotify.html.j2",
         "dark": "spotify-dark.html.j2"
+        "portrait": "spotify-potrait.html.j2"
     }
 }
